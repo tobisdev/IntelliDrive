@@ -1,4 +1,4 @@
-# Cpp-IntelliDrive-DiplomArbeit
+# IntelliDrive
 
 IntelliDrive, focuses on developing an artificial driving intelligence in a 2D simulation environment. The simulation encompasses a physically accurate environment in which vehicles autonomously navigate a racetrack. A user-friendly graphical interface allows real-time data visualization and transmission to the neural networks. The implementation focuses on a multi-layer perceptron network optimized using a genetic algorithm.
 
@@ -49,7 +49,7 @@ The current code in the **vendors** folder is not originally authored by us, as 
 
 ## Original Repository
 
-Our original repository was [IntelliDrive](https://github.com/voricc/Cpp-IntelliDrive-DiplomArbeit) but we had to create a new one from a backup because our dependencies got messed up.
+Our original repository was [IntelliDrive](https://github.com/voricc/IntelliDrive) but we had to create a new one from a backup because our dependencies got messed up.
 
 ## Getting Started
 
@@ -65,7 +65,7 @@ To install and set up this project locally, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/tobisdev/Intellidrive.git
-    cd Cpp-IntelliDrive-DiplomArbeit
+    cd IntelliDrive
     ```
 
 2. Build the project using CMake:
