@@ -76,7 +76,7 @@ To install and set up this project locally, follow these steps:
     make
     ```
 
-## Usage
+### Usage
 After building the project, you can run the executable to start the AI learning process:
 
 ```bash
