@@ -35,10 +35,21 @@ IntelliDrive, focuses on developing an artificial driving intelligence in a 2D s
 ### Screenshots from the Game
 
 <div class="image-container">
-<img src="/resources/Screenshots/Screen1.png" alt="Screenshot 1" height="180">
-<img src="/resources/Screenshots/Screen2.png" alt="Screenshot 2" height="180">
-<img src="/resources/Screenshots/Screen3.png" alt="Screenshot 3" height="180">
+<img src="/resources/Screenshots/Screen1.png" alt="Screenshot 1" height="150">
+<img src="/resources/Screenshots/Screen2.png" alt="Screenshot 2" height="150">
+<img src="/resources/Screenshots/Screen3.png" alt="Screenshot 3" height="150">
 </div>
+
+## Warning
+
+The current code in the **vendors** folder is not originally authored by us, as the CMake configuration still requires modification. Below are the referenced projects:
+
+- [JSON for Modern C++](https://github.com/nlohmann/json)
+- [SFML](https://github.com/SFML/SFML)
+
+## Original Repository
+
+Our original repository was [IntelliDrive](https://github.com/voricc/Cpp-IntelliDrive-DiplomArbeit) but we had to create a new one from a backup because our dependencies got messed up.
 
 ## Getting Started
 
@@ -53,7 +64,7 @@ To install and set up this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/vor1c/Cpp-IntelliDrive-DiplomArbeit.git
+    git clone https://github.com/tobisdev/Intellidrive.git
     cd Cpp-IntelliDrive-DiplomArbeit
     ```
 
