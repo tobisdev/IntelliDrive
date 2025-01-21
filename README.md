@@ -40,6 +40,12 @@ IntelliDrive, focuses on developing an artificial driving intelligence in a 2D s
 <img src="/resources/Screenshots/Screen3.png" alt="Screenshot 3" height="150">
 </div>
 
+### Integration of the AI into our IntelliDrive Project:
+
+<video src="https://github.com/user-attachments/assets/edc46481-7c6f-4be0-9aa9-5d913305f719" width="640" height="360" controls>
+Your browser does not support the video tag.
+</video>
+
 ## Warning
 
 The current code in the **vendors** folder is not originally authored by us, as the CMake configuration still requires modification. Below are the referenced projects:
