@@ -16,7 +16,7 @@ IntelliDrive, focuses on developing an artificial driving intelligence in a 2D s
 ### Tools Used:
 <p align="left">
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Farrayfire.com%2Flogos%2Farrayfire_logo_whitebkgnd.png&f=1&nofb=1&ipt=492162a18381f8c743d1617b0cdd2ef9776b7e03b649b8cd46e15f8832ee63db&ipo=images" alt="ArrayFire" height="50">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fb%2F73-738895_sfml-logo-sfml-icon-clipart.png&f=1&nofb=1&ipt=37dea4a9d226a1cf90ed363fcb1c6c299cf2d3fb76c201bf1f534c8c4e894e36&ipo=images" alt="SFML" height="50">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fdmitriy3342%2Fvs-template-sfml2.5.1-win-ping-pong%2Fmain%2Fdocs%2FSFML_LOGO.png&f=1&nofb=1&ipt=9de402d5957c3ccde66da24cd46b928e0111a22a656fe040d8ebb1cda77b6157&ipo=images" alt="SFML" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" alt="CMake" height="50">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresources.jetbrains.com%2Fstorage%2Fproducts%2Fcompany%2Fbrand%2Flogos%2FCLion_icon.png&f=1&nofb=1&ipt=917eb1a40af6a8bb0bf8cae02279d54e005c2dd5b83774b9a25d5eb49c36c2fe&ipo=images" alt="CLion" height="50">
